@@ -412,6 +412,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![PMC_4 1](https://github.com/gummadileepkumar/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118707761/14527dc3-0e62-4faf-906e-84184e30be39)
 
+
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
+
+![PMC_DESIGN_4](https://github.com/gummadileepkumar/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118707761/954b1036-49c6-4a15-8e1c-c0e52137933b)
+
+ 
  
  
  
